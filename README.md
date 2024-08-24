@@ -14,7 +14,7 @@ This is a basic RESTful API project built using Node.js, Express, and EJS. The a
 1. Clone the repository:
     cd restful-api-project
     (go to restful-api-project directory)
-bash
+-bash
     git clone https://github.com/yourusername/restful-api-project.git
 
 
