@@ -39,4 +39,4 @@ bash
 
 ## Credits
 - **Author**: Besta Dinesh
-- **Contact**: [LinkedIn](https://www.linkedin.com/in/besta-dinesh-736599263
+- **Contact**: [LinkedIn](https://www.linkedin.com/in/besta-dinesh-736599263) | [Instagram](https://www.instagram.com/dinnu_20_04)
