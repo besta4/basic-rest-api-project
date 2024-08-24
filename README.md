@@ -34,24 +34,6 @@ bash
 
 2. Open your browser and navigate to http://localhost:8080/posts to view all posts.
 
-## Project Structure
-
-plaintext
-restful-api-project/
-│
-├── public/
-│   └── style.css        # CSS file for basic styling
-│
-├── views/
-│   ├── edit.ejs         # Template for editing a post
-│   ├── index.ejs        # Template for displaying all posts
-│   ├── new.ejs          # Template for creating a new post
-│   └── show.ejs         # Template for displaying a single post in detail
-│
-├── index.js             # Main server file
-├── package.json         # Project dependencies and scripts
-└── README.md            # Project documentation
-
 ## Credits
 - **Author**: Besta Dinesh
 - **Contact**: [LinkedIn](https://www.linkedin.com/in/besta-dinesh-736599263
